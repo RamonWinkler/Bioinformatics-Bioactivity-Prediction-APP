@@ -26,8 +26,6 @@ Next, the compounds categorized as **Intermediate** are removed to simplify the 
 
 A **Mann-Whitney U Test** is then used to statistically assess whether there is a significant difference between the **Active** and **Inactive** groups. This non-parametric test helps determine if the two groups come from different distributions, providing valuable insights into the bioactivity of the compounds.
 
-xxxxxxxx
-xxxxxxx
-xxxxxxx
+XXXXXXX PaDEL-Descriptor Xxxxxxxxxxxxx
 
 ## Part 2: Model Training, Model Comparison, App Development
