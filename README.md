@@ -3,8 +3,11 @@
 The focus of this project is to build a web application to predict the bioactivity towards inhibiting the Acetylcholinesterase enzyme.
 Acetylcholinesterase is a known drug target related to the Alzheimer's disease
 
+### Literature: https://pubmed.ncbi.nlm.nih.gov/27602288/
+
+
 ### Credits: [*Python for Bioinformatics*](https://www.youtube.com/watch?v=jBlTQjcKuaY&t=52s)
-This project is divided into two main parts:
+
 
 ## Part 1: Data Loading, Preprocessing and Exploratory Data Analysis
 
