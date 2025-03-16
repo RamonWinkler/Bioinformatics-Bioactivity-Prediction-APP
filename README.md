@@ -21,10 +21,10 @@ In this section, we load data from the [*ChEMBL Database*](https://www.ebi.ac.uk
   - **Inactive**: Compounds with a bioactivity of > 10,000 nM.
   - **Intermediate**: Compounds with bioactivity values between 1000 nM and 10,000 nM.
   
-### Exploratory Data Analysis using Lipinski Descriptor
+### Exploratory Data Analysis using Lipinski- Descriptors
 Exploratory Data Analysis (EDA) is performed to gain insights into the data. To assess the drug-like properties of the selected compounds, **Lipinski's descriptors** are calculated. Lipinski’s Rule of Five is a key criterion in drug discovery, predicting whether a compound is likely to have favorable **Absorption, Distribution, Metabolism, and Excretion (ADME)** properties, which are essential for its effectiveness as an oral drug.
 
-### Chemical Space Analysis Using Lipinski Descriptors
+### Chemical Space Analysis Using Lipinski- Descriptors
 
 Next, the compounds categorized as **Intermediate** are removed to simplify the comparison between **Active** and **Inactive** compounds.
 
