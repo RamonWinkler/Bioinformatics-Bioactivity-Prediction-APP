@@ -1,4 +1,7 @@
-# Bioinformatics-WebApp
+# Bioactivity Prediction Web Application
+
+The focus of this project is to build a web application to predict the bioactivity towards inhibiting the Acetylcholinesterase enzyme.
+Acetylcholinesterase is a known drug target related to the Alzheimer's disease
 
 ### Credits: [*Python for Bioinformatics*](https://www.youtube.com/watch?v=jBlTQjcKuaY&t=52s)
 This project is divided into two main parts:
@@ -23,4 +26,8 @@ Next, the compounds categorized as **Intermediate** are removed to simplify the 
 
 A **Mann-Whitney U Test** is then used to statistically assess whether there is a significant difference between the **Active** and **Inactive** groups. This non-parametric test helps determine if the two groups come from different distributions, providing valuable insights into the bioactivity of the compounds.
 
+xxxxxxxx
+xxxxxxx
+xxxxxxx
 
+## Part 2: Model Training, Model Comparison, App Development
